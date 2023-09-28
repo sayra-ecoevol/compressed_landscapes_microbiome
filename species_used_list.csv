@@ -1,0 +1,26 @@
+Abbreviation,Species,Strain,Source,Type Strain?,Inoculum Volume (uL),Preculture Media,Preculture Time (hr)
+PC,Prevotella copri,Prevotella copri CB7 [DSM 18205],DSMZ,Yes,100,ABB,40
+PJ,Parabacteroides johnsonii,Parabacteroides johnsonii M-165 [DSM 18315],DSMZ,Yes,100,ABB,40
+BV,Bacteroides vulgatus,Bacteroides vulgatus NCTC 11154 [ATCC 8482],ATCC,Yes,100,ABB,16
+BF,Bacteroides fragilis,Bacteroides fragilis EN-2 [DSM 2151],DSMZ,Yes,100,ABB,16
+BO,Bacteroides ovatus,Bacteroides ovatus NCTC 11153 [ATCC 8483],ATCC,Yes,100,ABB,16
+BT,Bacteroides thetaiotaomicron,Bacteroides thetaiotaomicron VPI 5482 [ATCC 29148],ATCC,Yes,100,ABB,16
+BC,Bacteroides caccae,Bacteroides caccae VPI 3452A,Rey Lab,Yes,100,ABB,16
+BY,Bacteroides cellulosilyticus,Bacteroides cellulosilyticus CRE21,Rey Lab,Yes,100,ABB,16
+BU,Bacteroides uniformis,Bacteroides uniformis VPI 0061 [DSM 6597],DSMZ,Yes,100,ABB,16
+DP,Desulfovibrio piger,Desulfovibrio piger VPI C3-23 [ATCC 29098],ATCC,Yes,100,ABB +28 mM Sodium DL-Lactate +2.7 mM Magnesium Sulfate,40
+BL,Bifidobacterium longum subs. infantis,Bifidobacterium longum subs. infantis S12 [DSM 20088],DSMZ,Yes,300,ABB,16
+BA,Bifidobacterium adolescentis,Bifidobacterium adolescentis E194a (Variant a),Rey Lab,Yes,300,ABB,16
+BP,Bifidobacterium pseudocatenulatum,Bifidobacterium pseudocatenulatum B1279 [DSM 20438],DSMZ,Yes,300,ABB,16
+CA,Collinsella aerofaciens,Collinsella aerofaciens VPI 1003 [DSM 3979],DSMZ,Yes,100,ABB,40
+EL,Eggerthella lenta,Eggerthella lenta 1899 B [DSM 2243],DSMZ,Yes,100,ABB,16
+FP,Faecalibacterium prausnitzii,Faecalibacterium prausnitzii A2-165 [DSM 17677],DSMZ,No,300,ABB,40
+CH,Clostridium hiranonis,Clostridium hiranonis T0-931 [DSM 13275],DSMZ,Yes,100,ABB,16
+AC,Anaerostipes caccae,Anaerostipes caccae L1-92 [DSM 14662],DSMZ,Yes,300,ABB,16
+BH,Blautia hydrogenotrophica,Blautia hydrogenotrophica S5a33 [DSM 10507],DSMZ,Yes,300,ABB,40
+CG,Clostridium asparagiforme,Clostridium asparagiforme N6 [DSM 15981],DSMZ,Yes,100,ABB,16
+ER,Eubacterium rectale,Eubacterium rectale VPI 0990 [ATCC 33656],ATCC,Yes,300,ABB +33 mM Sodium Acetate,40
+RI,Roseburia intestinalis,Roseburia intestinalis L1-82 [DSM 14610],DSMZ,Yes,300,ABB/DM38a,40
+CC,Coprococcus comes,Coprococcus comes VPI CI-38,Rey Lab,Yes,100,ABB,16
+DL,Dorea longicatena,Dorea longicatena 111-35,Rey Lab,Yes,100,ABB,16
+DF,Dorea formicigenerans,Dorea formicigenerans VPI C8-13 [DSM 3992],DSMZ,Yes,100,ABB,16
